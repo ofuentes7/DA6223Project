@@ -1,97 +1,97 @@
-Away Team,Home Team,Date,Game ID,Division,Avg Ticket Price
-Baltimore Ravens,Pittsburgh Steelers,2-Nov-14,9037819,AFC North,202
-Pittsburgh Steelers,Baltimore Ravens,11-Sep-14,9037835,AFC North,199
-Cleveland Browns,Pittsburgh Steelers,7-Sep-14,9037806,AFC North,196
-Cincinnati Bengals,Pittsburgh Steelers,28-Dec-14,9037828,AFC North,164
-Pittsburgh Steelers,Cleveland Browns,12-Oct-14,9037890,AFC North,148
-Cleveland Browns,Baltimore Ravens,28-Dec-14,9037845,AFC North,137
-Cincinnati Bengals,Baltimore Ravens,7-Sep-14,9037833,AFC North,135
-Cleveland Browns,Cincinnati Bengals,6-Nov-14,9037858,AFC North,102
-Pittsburgh Steelers,Cincinnati Bengals,7-Dec-14,9037859,AFC North,89
-Baltimore Ravens,Cleveland Browns,21-Sep-14,9037889,AFC North,83
-Baltimore Ravens,Cincinnati Bengals,26-Oct-14,9037854,AFC North,83
-Cincinnati Bengals,Cleveland Browns,14-Dec-14,9037903,AFC North,81
-Miami Dolphins,New England Patriots,14-Dec-14,9037705,AFC East,209
-Buffalo Bills,New England Patriots,28-Dec-14,9037709,AFC East,208
-New York Jets,New England Patriots,16-Oct-14,9037693,AFC East,201
-New England Patriots,Buffalo Bills,12-Oct-14,9037803,AFC East,127
-Miami Dolphins,Buffalo Bills,14-Sep-14,9037796,AFC East,123
-New England Patriots,Miami Dolphins,7-Sep-14,9037759,AFC East,122
-New York Jets,Miami Dolphins,28-Dec-14,9037779,AFC East,108
-New England Patriots,New York Jets,21-Dec-14,9037745,AFC East,106
-Buffalo Bills,Miami Dolphins,13-Nov-14,9037769,AFC East,103
-Buffalo Bills,New York Jets,26-Oct-14,9037732,AFC East,91
-New York Jets,Buffalo Bills,23-Nov-14,9037809,AFC East,67
-Miami Dolphins,New York Jets,1-Dec-14,9037741,AFC East,55
-San Diego Chargers,Denver Broncos,23-Oct-14,9037694,AFC West,241
-Kansas City Chiefs,Denver Broncos,14-Sep-14,9037677,AFC West,218
-Oakland Raiders,Denver Broncos,28-Dec-14,9037710,AFC West,213
-Denver Broncos,San Diego Chargers,14-Dec-14,9037791,AFC West,202
-Oakland Raiders,San Diego Chargers,16-Nov-14,9037788,AFC West,118
-Denver Broncos,Kansas City Chiefs,30-Nov-14,9037752,AFC West,117
-Kansas City Chiefs,San Diego Chargers,19-Oct-14,9037787,AFC West,94
-Denver Broncos,Oakland Raiders,9-Nov-14,9037876,AFC West,85
-San Diego Chargers,Oakland Raiders,12-Oct-14,9037869,AFC West,71
-San Diego Chargers,Kansas City Chiefs,28-Dec-14,9037757,AFC West,58
-Oakland Raiders,Kansas City Chiefs,14-Dec-14,9037754,AFC West,41
-Kansas City Chiefs,Oakland Raiders,20-Nov-14,9037880,AFC West,40
-Indianapolis Colts,Houston Texans,9-Oct-14,9037891,AFC South,168
-Jacksonville Jaguars,Houston Texans,28-Dec-14,9037907,AFC South,130
-Tennessee Titans,Houston Texans,30-Nov-14,9037900,AFC South,126
-Houston Texans,Indianapolis Colts,14-Dec-14,9037871,AFC South,104
-Jacksonville Jaguars,Indianapolis Colts,23-Nov-14,9037866,AFC South,81
-Tennessee Titans,Indianapolis Colts,28-Sep-14,9037848,AFC South,71
-Indianapolis Colts,Jacksonville Jaguars,21-Sep-14,9037917,AFC South,69
-Indianapolis Colts,Tennessee Titans,28-Dec-14,9037946,AFC South,64
-Houston Texans,Tennessee Titans,26-Oct-14,9037931,AFC South,55
-Houston Texans,Jacksonville Jaguars,7-Dec-14,9037933,AFC South,47
-Jacksonville Jaguars,Tennessee Titans,12-Oct-14,9037926,AFC South,45
-Tennessee Titans,Jacksonville Jaguars,18-Dec-14,9037937,AFC South,40
-Green Bay Packers,Chicago Bears,28-Sep-14,9037834,NFC North,423
-Chicago Bears,Green Bay Packers,9-Nov-14,9037875,NFC North,265
-Minnesota Vikings,Chicago Bears,16-Nov-14,9037840,NFC North,218
-Detroit Lions,Green Bay Packers,28-Dec-14,9037885,NFC North,211
-Chicago Bears,Detroit Lions,27-Nov-14,9037912,NFC North,176
-Detroit Lions,Chicago Bears,21-Dec-14,9037852,NFC North,153
-Green Bay Packers,Minnesota Vikings,23-Nov-14,9037942,NFC North,138
-Green Bay Packers,Detroit Lions,21-Sep-14,9037902,NFC North,106
-Detroit Lions,Minnesota Vikings,12-Oct-14,9037938,NFC North,86
-Chicago Bears,Minnesota Vikings,28-Dec-14,9037947,NFC North,67
-Minnesota Vikings,Green Bay Packers,2-Oct-14,9037870,NFC North,206
-Minnesota Vikings,Detroit Lions,14-Dec-14,9037915,NFC North,94
-Dallas Cowboys,Philadelphia Eagles,14-Dec-14,9037728,NFC East,236
-Dallas Cowboys,New York Giants,23-Nov-14,9037751,NFC East,228
-Philadelphia Eagles,Dallas Cowboys,27-Nov-14,9037692,NFC East,219
-New York Giants,Philadelphia Eagles,12-Oct-14,9037718,NFC East,213
-Washington Redskins,Philadelphia Eagles,21-Sep-14,9037713,NFC East,205
-Philadelphia Eagles,New York Giants,28-Dec-14,9037755,NFC East,178
-New York Giants,Dallas Cowboys,19-Oct-14,9037683,NFC East,167
-Dallas Cowboys,Washington Redskins,28-Dec-14,9037786,NFC East,165
-Washington Redskins,Dallas Cowboys,27-Oct-14,9037686,NFC East,153
-Washington Redskins,New York Giants,14-Dec-14,9037753,NFC East,121
-Philadelphia Eagles,Washington Redskins,20-Dec-14,9037783,NFC East,100
-New York Giants,Washington Redskins,25-Sep-14,9037768,NFC East,90
-San Francisco 49ers,Seattle Seahawks,14-Dec-14,9037740,NFC West,373
-Seattle Seahawks,San Francisco 49ers,27-Nov-14,9037701,NFC West,264
-St Louis Rams,Seattle Seahawks,28-Dec-14,9037742,NFC West,220
-Arizona Cardinals,Seattle Seahawks,23-Nov-14,9037736,NFC West,210
-Arizona Cardinals,San Francisco 49ers,28-Dec-14,9037708,NFC West,202
-St Louis Rams,San Francisco 49ers,2-Nov-14,9037691,NFC West,187
-Seattle Seahawks,Arizona Cardinals,21-Dec-14,9037792,NFC West,184
-San Francisco 49ers,Arizona Cardinals,21-Sep-14,9037763,NFC West,139
-St Louis Rams,Arizona Cardinals,9-Nov-14,9037777,NFC West,76
-San Francisco 49ers,St Louis Rams,13-Oct-14,9037804,NFC West,51
-Seattle Seahawks,St Louis Rams,19-Oct-14,9037808,NFC West,47
-Arizona Cardinals,St Louis Rams,11-Dec-14,9037816,NFC West,29
-Atlanta Falcons,New Orleans Saints,21-Dec-14,9037941,NFC South,205
-New Orleans Saints,Atlanta Falcons,7-Sep-14,9037955,NFC South,158
-Tampa Bay Buccaneers,New Orleans Saints,5-Oct-14,9037914,NFC South,135
-New Orleans Saints,Carolina Panthers,30-Oct-14,9037827,NFC South,108
-Atlanta Falcons,Carolina Panthers,16-Nov-14,9037829,NFC South,99
-Carolina Panthers,Atlanta Falcons,28-Dec-14,9037967,NFC South,80
-New Orleans Saints,Tampa Bay Buccaneers,28-Dec-14,9037964,NFC South,77
-Atlanta Falcons,Tampa Bay Buccaneers,9-Nov-14,9037960,NFC South,70
-Carolina Panthers,Tampa Bay Buccaneers,7-Sep-14,9037952,NFC South,70
-Tampa Bay Buccaneers,Atlanta Falcons,18-Sep-14,9037957,NFC South,51
-Tampa Bay Buccaneers,Carolina Panthers,14-Dec-14,9037831,NFC South,48
-Arizona Cardinals,Atlanta Falcons,30-Nov-14,9037965,NFC South,44
+Year,Away Team,Home Team,Date,Game ID,Division,Avg Ticket Price
+2014,Baltimore Ravens,Pittsburgh Steelers,2-Nov-14,9037819,AFC North,202
+2014,Pittsburgh Steelers,Baltimore Ravens,11-Sep-14,9037835,AFC North,199
+2014,Cleveland Browns,Pittsburgh Steelers,7-Sep-14,9037806,AFC North,196
+2014,Cincinnati Bengals,Pittsburgh Steelers,28-Dec-14,9037828,AFC North,164
+2014,Pittsburgh Steelers,Cleveland Browns,12-Oct-14,9037890,AFC North,148
+2014,Cleveland Browns,Baltimore Ravens,28-Dec-14,9037845,AFC North,137
+2014,Cincinnati Bengals,Baltimore Ravens,7-Sep-14,9037833,AFC North,135
+2014,Cleveland Browns,Cincinnati Bengals,6-Nov-14,9037858,AFC North,102
+2014,Pittsburgh Steelers,Cincinnati Bengals,7-Dec-14,9037859,AFC North,89
+2014,Baltimore Ravens,Cleveland Browns,21-Sep-14,9037889,AFC North,83
+2014,Baltimore Ravens,Cincinnati Bengals,26-Oct-14,9037854,AFC North,83
+2014,Cincinnati Bengals,Cleveland Browns,14-Dec-14,9037903,AFC North,81
+2014,Miami Dolphins,New England Patriots,14-Dec-14,9037705,AFC East,209
+2014,Buffalo Bills,New England Patriots,28-Dec-14,9037709,AFC East,208
+2014,New York Jets,New England Patriots,16-Oct-14,9037693,AFC East,201
+2014,New England Patriots,Buffalo Bills,12-Oct-14,9037803,AFC East,127
+2014,Miami Dolphins,Buffalo Bills,14-Sep-14,9037796,AFC East,123
+2014,New England Patriots,Miami Dolphins,7-Sep-14,9037759,AFC East,122
+2014,New York Jets,Miami Dolphins,28-Dec-14,9037779,AFC East,108
+2014,New England Patriots,New York Jets,21-Dec-14,9037745,AFC East,106
+2014,Buffalo Bills,Miami Dolphins,13-Nov-14,9037769,AFC East,103
+2014,Buffalo Bills,New York Jets,26-Oct-14,9037732,AFC East,91
+2014,New York Jets,Buffalo Bills,23-Nov-14,9037809,AFC East,67
+2014,Miami Dolphins,New York Jets,1-Dec-14,9037741,AFC East,55
+2014,San Diego Chargers,Denver Broncos,23-Oct-14,9037694,AFC West,241
+2014,Kansas City Chiefs,Denver Broncos,14-Sep-14,9037677,AFC West,218
+2014,Oakland Raiders,Denver Broncos,28-Dec-14,9037710,AFC West,213
+2014,Denver Broncos,San Diego Chargers,14-Dec-14,9037791,AFC West,202
+2014,Oakland Raiders,San Diego Chargers,16-Nov-14,9037788,AFC West,118
+2014,Denver Broncos,Kansas City Chiefs,30-Nov-14,9037752,AFC West,117
+2014,Kansas City Chiefs,San Diego Chargers,19-Oct-14,9037787,AFC West,94
+2014,Denver Broncos,Oakland Raiders,9-Nov-14,9037876,AFC West,85
+2014,San Diego Chargers,Oakland Raiders,12-Oct-14,9037869,AFC West,71
+2014,San Diego Chargers,Kansas City Chiefs,28-Dec-14,9037757,AFC West,58
+2014,Oakland Raiders,Kansas City Chiefs,14-Dec-14,9037754,AFC West,41
+2014,Kansas City Chiefs,Oakland Raiders,20-Nov-14,9037880,AFC West,40
+2014,Indianapolis Colts,Houston Texans,9-Oct-14,9037891,AFC South,168
+2014,Jacksonville Jaguars,Houston Texans,28-Dec-14,9037907,AFC South,130
+2014,Tennessee Titans,Houston Texans,30-Nov-14,9037900,AFC South,126
+2014,Houston Texans,Indianapolis Colts,14-Dec-14,9037871,AFC South,104
+2014,Jacksonville Jaguars,Indianapolis Colts,23-Nov-14,9037866,AFC South,81
+2014,Tennessee Titans,Indianapolis Colts,28-Sep-14,9037848,AFC South,71
+2014,Indianapolis Colts,Jacksonville Jaguars,21-Sep-14,9037917,AFC South,69
+2014,Indianapolis Colts,Tennessee Titans,28-Dec-14,9037946,AFC South,64
+2014,Houston Texans,Tennessee Titans,26-Oct-14,9037931,AFC South,55
+2014,Houston Texans,Jacksonville Jaguars,7-Dec-14,9037933,AFC South,47
+2014,Jacksonville Jaguars,Tennessee Titans,12-Oct-14,9037926,AFC South,45
+2014,Tennessee Titans,Jacksonville Jaguars,18-Dec-14,9037937,AFC South,40
+2014,Green Bay Packers,Chicago Bears,28-Sep-14,9037834,NFC North,423
+2014,Chicago Bears,Green Bay Packers,9-Nov-14,9037875,NFC North,265
+2014,Minnesota Vikings,Chicago Bears,16-Nov-14,9037840,NFC North,218
+2014,Detroit Lions,Green Bay Packers,28-Dec-14,9037885,NFC North,211
+2014,Chicago Bears,Detroit Lions,27-Nov-14,9037912,NFC North,176
+2014,Detroit Lions,Chicago Bears,21-Dec-14,9037852,NFC North,153
+2014,Green Bay Packers,Minnesota Vikings,23-Nov-14,9037942,NFC North,138
+2014,Green Bay Packers,Detroit Lions,21-Sep-14,9037902,NFC North,106
+2014,Detroit Lions,Minnesota Vikings,12-Oct-14,9037938,NFC North,86
+2014,Chicago Bears,Minnesota Vikings,28-Dec-14,9037947,NFC North,67
+2014,Minnesota Vikings,Green Bay Packers,2-Oct-14,9037870,NFC North,206
+2014,Minnesota Vikings,Detroit Lions,14-Dec-14,9037915,NFC North,94
+2014,Dallas Cowboys,Philadelphia Eagles,14-Dec-14,9037728,NFC East,236
+2014,Dallas Cowboys,New York Giants,23-Nov-14,9037751,NFC East,228
+2014,Philadelphia Eagles,Dallas Cowboys,27-Nov-14,9037692,NFC East,219
+2014,New York Giants,Philadelphia Eagles,12-Oct-14,9037718,NFC East,213
+2014,Washington Redskins,Philadelphia Eagles,21-Sep-14,9037713,NFC East,205
+2014,Philadelphia Eagles,New York Giants,28-Dec-14,9037755,NFC East,178
+2014,New York Giants,Dallas Cowboys,19-Oct-14,9037683,NFC East,167
+2014,Dallas Cowboys,Washington Redskins,28-Dec-14,9037786,NFC East,165
+2014,Washington Redskins,Dallas Cowboys,27-Oct-14,9037686,NFC East,153
+2014,Washington Redskins,New York Giants,14-Dec-14,9037753,NFC East,121
+2014,Philadelphia Eagles,Washington Redskins,20-Dec-14,9037783,NFC East,100
+2014,New York Giants,Washington Redskins,25-Sep-14,9037768,NFC East,90
+2014,San Francisco 49ers,Seattle Seahawks,14-Dec-14,9037740,NFC West,373
+2014,Seattle Seahawks,San Francisco 49ers,27-Nov-14,9037701,NFC West,264
+2014,St Louis Rams,Seattle Seahawks,28-Dec-14,9037742,NFC West,220
+2014,Arizona Cardinals,Seattle Seahawks,23-Nov-14,9037736,NFC West,210
+2014,Arizona Cardinals,San Francisco 49ers,28-Dec-14,9037708,NFC West,202
+2014,St Louis Rams,San Francisco 49ers,2-Nov-14,9037691,NFC West,187
+2014,Seattle Seahawks,Arizona Cardinals,21-Dec-14,9037792,NFC West,184
+2014,San Francisco 49ers,Arizona Cardinals,21-Sep-14,9037763,NFC West,139
+2014,St Louis Rams,Arizona Cardinals,9-Nov-14,9037777,NFC West,76
+2014,San Francisco 49ers,St Louis Rams,13-Oct-14,9037804,NFC West,51
+2014,Seattle Seahawks,St Louis Rams,19-Oct-14,9037808,NFC West,47
+2014,Arizona Cardinals,St Louis Rams,11-Dec-14,9037816,NFC West,29
+2014,Atlanta Falcons,New Orleans Saints,21-Dec-14,9037941,NFC South,205
+2014,New Orleans Saints,Atlanta Falcons,7-Sep-14,9037955,NFC South,158
+2014,Tampa Bay Buccaneers,New Orleans Saints,5-Oct-14,9037914,NFC South,135
+2014,New Orleans Saints,Carolina Panthers,30-Oct-14,9037827,NFC South,108
+2014,Atlanta Falcons,Carolina Panthers,16-Nov-14,9037829,NFC South,99
+2014,Carolina Panthers,Atlanta Falcons,28-Dec-14,9037967,NFC South,80
+2014,New Orleans Saints,Tampa Bay Buccaneers,28-Dec-14,9037964,NFC South,77
+2014,Atlanta Falcons,Tampa Bay Buccaneers,9-Nov-14,9037960,NFC South,70
+2014,Carolina Panthers,Tampa Bay Buccaneers,7-Sep-14,9037952,NFC South,70
+2014,Tampa Bay Buccaneers,Atlanta Falcons,18-Sep-14,9037957,NFC South,51
+2014,Tampa Bay Buccaneers,Carolina Panthers,14-Dec-14,9037831,NFC South,48
+2014,Arizona Cardinals,Atlanta Falcons,30-Nov-14,9037965,NFC South,44
