@@ -1,41 +1,41 @@
-Year,Away Team,Home Team,Date,ADDR_STATE,% Sales,% Ticket Sold
-2014,Oakland Raiders,New York Jets,9/7/2014,NY,47%,45%
-2014,Oakland Raiders,New York Jets,9/7/2014,NJ,28%,31%
-2014,Oakland Raiders,New York Jets,9/7/2014,CT,5%,5%
-2014,Oakland Raiders,New York Jets,9/7/2014,PA,4%,4%
-2014,Oakland Raiders,New York Jets,9/7/2014,CA,3%,3%
-2014,Chicago Bears,New York Jets,9/22/2014,NY,43%,43%
-2014,Chicago Bears,New York Jets,9/22/2014,NJ,25%,28%
-2014,Chicago Bears,New York Jets,9/22/2014,IL,9%,7%
-2014,Chicago Bears,New York Jets,9/22/2014,CT,5%,4%
-2014,Chicago Bears,New York Jets,9/22/2014,CA,2%,2%
-2014,Detroit Lions,New York Jets,9/28/2014,NY,49%,49%
-2014,Detroit Lions,New York Jets,9/28/2014,NJ,25%,28%
-2014,Detroit Lions,New York Jets,9/28/2014,CT,5%,4%
-2014,Detroit Lions,New York Jets,9/28/2014,MI,3%,3%
-2014,Detroit Lions,New York Jets,9/28/2014,PA,2%,2%
-2014,Denver Broncos,New York Jets,10/12/2014,NY,44%,45%
-2014,Denver Broncos,New York Jets,10/12/2014,NJ,23%,24%
-2014,Denver Broncos,New York Jets,10/12/2014,CT,5%,5%
-2014,Denver Broncos,New York Jets,10/12/2014,PA,4%,3%
-2014,Denver Broncos,New York Jets,10/12/2014,QC,3%,3%
-2014,Buffalo Bills,New York Jets,10/26/2014,NY,55%,56%
-2014,Buffalo Bills,New York Jets,10/26/2014,NJ,23%,23%
-2014,Buffalo Bills,New York Jets,10/26/2014,CT,5%,5%
-2014,Buffalo Bills,New York Jets,10/26/2014,PA,2%,2%
-2014,Buffalo Bills,New York Jets,10/26/2014,CA,1%,1%
-2014,Pittsburgh Steelers,New York Jets,11/9/2014,NY,39%,40%
-2014,Pittsburgh Steelers,New York Jets,11/9/2014,NJ,28%,30%
-2014,Pittsburgh Steelers,New York Jets,11/9/2014,CT,8%,7%
-2014,Pittsburgh Steelers,New York Jets,11/9/2014,PA,8%,9%
-2014,Pittsburgh Steelers,New York Jets,11/9/2014,CA,2%,2%
-2014,Miami Dolphins,New York Jets,12/1/2014,NY,37%,38%
-2014,Miami Dolphins,New York Jets,12/1/2014,NJ,35%,38%
-2014,Miami Dolphins,New York Jets,12/1/2014,PA,5%,5%
-2014,Miami Dolphins,New York Jets,12/1/2014,CT,5%,5%
-2014,Miami Dolphins,New York Jets,12/1/2014,FL,4%,3%
-2014,New England Patriots,New York Jets,12/21/2014,NY,38%,38%
-2014,New England Patriots,New York Jets,12/21/2014,NJ,24%,23%
-2014,New England Patriots,New York Jets,12/21/2014,CT,9%,9%
-2014,New England Patriots,New York Jets,12/21/2014,MA,7%,8%
-2014,New England Patriots,New York Jets,12/21/2014,PA,4%,3%
+Year,AwayTeam,YearTeamIDAway,HomeTeam,YearTeamIDHome,Date,State,PercentSales,PercentTicketSold
+2014,OaklandRaiders,2014OaklandRaiders,NewYorkJets,2014NewYorkJets,9/7/2014,NY,47%,45%
+2014,OaklandRaiders,2014OaklandRaiders,NewYorkJets,2014NewYorkJets,9/7/2014,NJ,28%,31%
+2014,OaklandRaiders,2014OaklandRaiders,NewYorkJets,2014NewYorkJets,9/7/2014,CT,5%,5%
+2014,OaklandRaiders,2014OaklandRaiders,NewYorkJets,2014NewYorkJets,9/7/2014,PA,4%,4%
+2014,OaklandRaiders,2014OaklandRaiders,NewYorkJets,2014NewYorkJets,9/7/2014,CA,3%,3%
+2014,ChicagoBears,2014ChicagoBears,NewYorkJets,2014NewYorkJets,9/22/2014,NY,43%,43%
+2014,ChicagoBears,2014ChicagoBears,NewYorkJets,2014NewYorkJets,9/22/2014,NJ,25%,28%
+2014,ChicagoBears,2014ChicagoBears,NewYorkJets,2014NewYorkJets,9/22/2014,IL,9%,7%
+2014,ChicagoBears,2014ChicagoBears,NewYorkJets,2014NewYorkJets,9/22/2014,CT,5%,4%
+2014,ChicagoBears,2014ChicagoBears,NewYorkJets,2014NewYorkJets,9/22/2014,CA,2%,2%
+2014,DetroitLions,2014DetroitLions,NewYorkJets,2014NewYorkJets,9/28/2014,NY,49%,49%
+2014,DetroitLions,2014DetroitLions,NewYorkJets,2014NewYorkJets,9/28/2014,NJ,25%,28%
+2014,DetroitLions,2014DetroitLions,NewYorkJets,2014NewYorkJets,9/28/2014,CT,5%,4%
+2014,DetroitLions,2014DetroitLions,NewYorkJets,2014NewYorkJets,9/28/2014,MI,3%,3%
+2014,DetroitLions,2014DetroitLions,NewYorkJets,2014NewYorkJets,9/28/2014,PA,2%,2%
+2014,DenverBroncos,2014DenverBroncos,NewYorkJets,2014NewYorkJets,10/12/2014,NY,44%,45%
+2014,DenverBroncos,2014DenverBroncos,NewYorkJets,2014NewYorkJets,10/12/2014,NJ,23%,24%
+2014,DenverBroncos,2014DenverBroncos,NewYorkJets,2014NewYorkJets,10/12/2014,CT,5%,5%
+2014,DenverBroncos,2014DenverBroncos,NewYorkJets,2014NewYorkJets,10/12/2014,PA,4%,3%
+2014,DenverBroncos,2014DenverBroncos,NewYorkJets,2014NewYorkJets,10/12/2014,QC,3%,3%
+2014,BuffaloBills,2014BuffaloBills,NewYorkJets,2014NewYorkJets,10/26/2014,NY,55%,56%
+2014,BuffaloBills,2014BuffaloBills,NewYorkJets,2014NewYorkJets,10/26/2014,NJ,23%,23%
+2014,BuffaloBills,2014BuffaloBills,NewYorkJets,2014NewYorkJets,10/26/2014,CT,5%,5%
+2014,BuffaloBills,2014BuffaloBills,NewYorkJets,2014NewYorkJets,10/26/2014,PA,2%,2%
+2014,BuffaloBills,2014BuffaloBills,NewYorkJets,2014NewYorkJets,10/26/2014,CA,1%,1%
+2014,PittsburghSteelers,2014PittsburghSteelers,NewYorkJets,2014NewYorkJets,11/9/2014,NY,39%,40%
+2014,PittsburghSteelers,2014PittsburghSteelers,NewYorkJets,2014NewYorkJets,11/9/2014,NJ,28%,30%
+2014,PittsburghSteelers,2014PittsburghSteelers,NewYorkJets,2014NewYorkJets,11/9/2014,CT,8%,7%
+2014,PittsburghSteelers,2014PittsburghSteelers,NewYorkJets,2014NewYorkJets,11/9/2014,PA,8%,9%
+2014,PittsburghSteelers,2014PittsburghSteelers,NewYorkJets,2014NewYorkJets,11/9/2014,CA,2%,2%
+2014,MiamiDolphins,2014MiamiDolphins,NewYorkJets,2014NewYorkJets,12/1/2014,NY,37%,38%
+2014,MiamiDolphins,2014MiamiDolphins,NewYorkJets,2014NewYorkJets,12/1/2014,NJ,35%,38%
+2014,MiamiDolphins,2014MiamiDolphins,NewYorkJets,2014NewYorkJets,12/1/2014,PA,5%,5%
+2014,MiamiDolphins,2014MiamiDolphins,NewYorkJets,2014NewYorkJets,12/1/2014,CT,5%,5%
+2014,MiamiDolphins,2014MiamiDolphins,NewYorkJets,2014NewYorkJets,12/1/2014,FL,4%,3%
+2014,NewEnglandPatriots,2014NewEnglandPatriots,NewYorkJets,2014NewYorkJets,12/21/2014,NY,38%,38%
+2014,NewEnglandPatriots,2014NewEnglandPatriots,NewYorkJets,2014NewYorkJets,12/21/2014,NJ,24%,23%
+2014,NewEnglandPatriots,2014NewEnglandPatriots,NewYorkJets,2014NewYorkJets,12/21/2014,CT,9%,9%
+2014,NewEnglandPatriots,2014NewEnglandPatriots,NewYorkJets,2014NewYorkJets,12/21/2014,MA,7%,8%
+2014,NewEnglandPatriots,2014NewEnglandPatriots,NewYorkJets,2014NewYorkJets,12/21/2014,PA,4%,3%
